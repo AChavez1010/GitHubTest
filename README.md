@@ -1,1 +1,4 @@
-# GitHubTest
+// GitHubTest
+// Hello Mates 
+
+console.log("")
